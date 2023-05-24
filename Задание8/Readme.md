@@ -1,6 +1,8 @@
 Лабораторная работа. Генерация изображений с помощью нейронной сети Stable Diffusion
 
 1.	Stable Diffusion_v1.4
+
+
 А. Кот победил в Олимпийских играх
  ![image](https://github.com/alloe16/newmodel/assets/101383654/815641ce-898a-49c5-95dc-6ae689e38165)
 Б. Лошадь плавает в бассейне 
@@ -9,6 +11,8 @@
   ![image](https://github.com/alloe16/newmodel/assets/101383654/5348e678-2848-4421-8bf3-746c16e4d1d6)
 
 2.	Epic-Diffusion
+
+
 А. фотография астронавта верхом на лошади
 ![image](https://github.com/alloe16/newmodel/assets/101383654/c8f5ed0b-5f9a-49d5-8dbc-8fcb1222bc42)
 Б. Два рыцаря бьются на мечах в поединке на вершине горы
